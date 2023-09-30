@@ -5,6 +5,7 @@ seoDescription: "A Complete breakdown of the greedy solutions for several classi
 datePublished: Sat Sep 30 2023 01:18:30 GMT+0000 (Coordinated Universal Time)
 cuid: cln5cgtfk00090aky12iraff3
 slug: the-greedy-guide-essential-problems-and-solutions-for-competitive-programming
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696036737041/122d5ad9-68f4-4f2f-b140-624bbe932574.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1696030185556/adbed07b-5d37-4fa1-9edc-4bb69a83e544.png
 tags: cpp, algorithms, computer-science, data-structures, competitive-programming
 
